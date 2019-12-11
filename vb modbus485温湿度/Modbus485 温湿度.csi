@@ -1,0 +1,12 @@
+[History]
+1=#P0#=mb	#P1#=Form_Load	#P2#=Modbus485梁物業/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151203154508	#P7#=0	#P8#=38	.
+2=#P0#=mb	#P1#=MSComm1_OnComm	#P2#=Modbus485梁物業/Form1/MSComm1_OnComm	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151203154341	#P7#=0	#P8#=6	.
+3=#P0#=mb	#P1#=bps_Click	#P2#=Modbus485梁物業/Form1/bps_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151224100909	#P7#=0	#P8#=7	.
+4=#P0#=mb	#P1#=Timer_GetData_Timer	#P2#=Modbus485梁物業/Form1/Timer_GetData_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151203153519	#P7#=0	#P8#=-2	.
+5=#P0#=mb	#P1#=DB_InsertRecord	#P2#=Modbus485梁物業/DB_database/DB_InsertRecord	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151203153126	#P7#=0	#P8#=6	.
+6=#P0#=mb	#P1#=DB_Create_Table	#P2#=Modbus485梁物業/DB_database/DB_Create_Table	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151203152553	#P7#=0	#P8#=1	.
+7=#P0#=mb	#P1#=InitDB	#P2#=Modbus485梁物業/Form1/InitDB	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151203151823	#P7#=0	#P8#=21	.
+8=#P0#=mb	#P1#=DB_CreateDataBase	#P2#=Modbus485梁物業/DB_database/DB_CreateDataBase	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151203150332	#P7#=0	#P8#=4	.
+9=#P0#=mb	#P1#=SetMSCOMM	#P2#=Modbus485梁物業/Form1/SetMSCOMM	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151203134806	#P7#=0	#P8#=17	.
+10=#P0#=mb	#P1#=CRC16	#P2#=Modbus485梁物業/ModBus_CRC16/CRC16	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151202094652	#P7#=0	#P8#=29	.
+11=#P0#=mb	#P1#=UartX1_Click	#P2#=Modbus485梁物業/Form1/UartX1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151202093344	#P7#=0	#P8#=-1	.
